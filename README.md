@@ -20,4 +20,6 @@ You need to run just the main script, but first you have to download the library
 
 The files 'MuscleSynergies_TW_alen' and 'MuscleSynergies_TR_alen' are also available in this repository: they contain the muscle synergies extracted for both the tasks. Using them, instead of running the extraction part of the code, you will save a lot of time and computational work.
 
+### Report
+
 Do you wanna know more? Please have a look at the technical [report](https://github.com/valeriopu/Treadmill-walking-and-running-kinematic-electromyographic-and-muscle-synergies-differences/blob/main/files/report.pdf).
